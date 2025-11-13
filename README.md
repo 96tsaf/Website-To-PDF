@@ -70,8 +70,3 @@ open("output.pdf", "wb").write(r.content)
 - `landscape` - sideways if you want
 - `print_background` - keeps colors and background images
 
-
-## License
-
-MIT
-
